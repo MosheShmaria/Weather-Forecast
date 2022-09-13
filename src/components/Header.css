@@ -1,0 +1,32 @@
+.container-haeder {
+ width: 70px;
+ 
+}
+.warp {
+  display: flex;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-left: 100px;
+}
+
+.title {
+  font-size: 20px;
+  margin: 0px 0px 0px 3px;
+}
+.link{
+    text-decoration: none;
+    margin: 3px;
+}
+.link:hover,
+.link.active-link {
+  background-color: #0d6efd;
+  color: white;
+  border-radius: 2px;
+  height: 25px;
+  margin-top: 2px;
+  width: 60px;
+  text-align: center;
+
+}

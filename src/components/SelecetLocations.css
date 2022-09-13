@@ -1,0 +1,28 @@
+.ListTitle {
+  font-size: 16px;
+}
+
+div {
+  font-size: 12px;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.ShowButton {
+  height: 25px;
+  width: 120px;
+  padding: 0px;
+  font-size: 12px;
+  margin-left: 20px;
+  margin-top: 5px;
+  
+}
+.delete {
+  height: 8px;
+  width: 8px;
+}
+
+.activeItem {
+  background-color: aqua;
+}
+
